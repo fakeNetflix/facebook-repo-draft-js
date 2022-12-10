@@ -5,7 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "draft-js": "file:../../../",
-    "express": "^4.14.0",
+    "express": "^4.17.3",
     "immutable": "^3.8.1",
     "react": "file:../../../node_modules/react",
     "react-dom": "file:../../../node_modules/react-dom"
